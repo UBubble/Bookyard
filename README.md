@@ -1,4 +1,4 @@
-# Montag: Book Recommender System #
+# Bookyard: Book recommend system #
 
 By Xujian Liang (xujianliang@gatech.edu) and Jiahui Bao 
 
